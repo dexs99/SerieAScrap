@@ -1,10 +1,8 @@
 # SerieAScrap
-take data from page legaseriea.it
+take data from page legaseriea.it and show only the part that i want (player's info) on bash screen
 
 beautifulsoup needs to be installed to run this script
 
 #run this command from bash to install beautifulsoup4
 
 pip install beautifulsoup4
-
-The script show all the data on screen
